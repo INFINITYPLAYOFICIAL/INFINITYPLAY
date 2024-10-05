@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="70% DOS CANAIS REVISADOS" tvg-logo="https://i.postimg.cc/3N4TMYd7/PROVEDOR-INFINITY.png",70% DOS CANAIS REVISADOS
+https://i.imgur.com/FzSW2Wr.mp4
+#EXTINF:-1 group-title="✔️ SPORTV" tvg-logo="https://i.imgur.com/QyqE5dr.png",SPORTV 1-ON
+https://sportscdn.me/sportv/video.m3u8
+#EXTINF:-1 group-title="✔️ SPORTV" tvg-logo="https://i.imgur.com/QyqE5dr.png",SPORTV 2-ON
+https://sportscdn.me/sportv2/video.m3u8
+#EXTINF:-1 group-title="✔️ SPORTV" tvg-logo="https://i.imgur.com/QyqE5dr.png",SPORTV 3-ON
+https://sportscdn.me/sportv3/video.m3u8
+#EXTINF:-1 group-title="✔️ ESPN" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN 1-ON
+https://sportscdn.me/espn/video.m3u8
+#EXTINF:-1 group-title="✔️ ESPN" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN 2-ON 
+https://sportscdn.me/espn2/video.m3u8
+#EXTINF:-1 group-title="✔️ ESPN" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN 3-ON
+https://sportscdn.me/espn3/video.m3u8
+#EXTINF:-1 group-title="✔️ ESPN" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN 4-ON
+https://sportscdn.me/espn4/video.m3u8
+#EXTINF:-1 group-title="✔️ ESPN" tvg-logo="https://i.imgur.com/hJr0Ay6.png",ESPN 5-ON
+https://sportscdn.me/espn5/video.m3u8
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png",Combate SD
+http://xtr3amcod3.com:8080/UeYFU3bduW/24nYjH8eMe/646146
