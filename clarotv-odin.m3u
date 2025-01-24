@@ -51,13 +51,13 @@ https://i.imgur.com/RyqRpom.png
 https://i.imgur.com/RyqRpom.png
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/combate.png" group-title="INFINITY|CANAIS",COMBATE
 https://super-cdn.link/combate/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",SBT SP
+#EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/sbt.png" group-title="INFINITY|CANAIS",SBT SP
 https://super-cdn.link/sbt/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",RECORD TV SP
+#EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/record.png" group-title="INFINITY|CANAIS",RECORD TV SP
 https://super-cdn.link/record/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",BAND SP
+#EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/band.png" group-title="INFINITY|CANAIS",BAND SP
 https://super-cdn.link/band/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",CNN BRASIL
+#EXTINF:-1 tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/cnnbrasil.png" group-title="INFINITY|CANAIS",CNN BRASIL
 https://super-cdn.link/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/premiere.png" group-title="INFINITY|CANAIS",PREMIERE CLUBES ON/OFF
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/494.m3u8
@@ -75,141 +75,143 @@ https://super-cdn.link/premiere6/playlist.m3u8
 https://super-cdn.link/premiere7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/premiere.png" group-title="INFINITY|CANAIS",PREMIERE 8
 https://super-cdn.link/premiere8/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",AXN
+#EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/axn.png" group-title="INFINITY|CANAIS",AXN
 https://super-cdn.link/axn/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",FX
+#EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/fx.png" group-title="INFINITY|CANAIS",FX
 https://super-cdn.link/fx/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",TELECINE ACTION
+#EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/telecineaction.png" group-title="INFINITY|CANAIS",TELECINE ACTION
 https://super-cdn.link/telecineaction/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",TELECINE PREMIUM
+#EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/telecinepremium.png" group-title="INFINITY|CANAIS",TELECINE PREMIUM
 https://super-cdn.link/telecinepremium/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",TELECINE PIPOCA
+#EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/telecinepipoca.png" group-title="INFINITY|CANAIS",TELECINE PIPOCA
 https://super-cdn.link/telecinepipoca/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",TELECINE TOUCH
+#EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/telecinetouch.png" group-title="INFINITY|CANAIS",TELECINE TOUCH
 https://super-cdn.link/telecinetouch/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",TELECINE CULT
+#EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/telecinefun.png" group-title="INFINITY|CANAIS",TELECINE FUN
+https://super-cdn.link/telecinefun/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/telecinecult.png" group-title="INFINITY|CANAIS",TELECINE CULT
 https://super-cdn.link/telecinecult/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",SPORTV
+#EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/sportv.png" group-title="INFINITY|CANAIS",SPORTV
 https://super-cdn.link/sportv/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",SPORTV 2
+#EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/sportv2.png" group-title="INFINITY|CANAIS",SPORTV 2
 https://super-cdn.link/sportv2/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",SPORTV 3
+#EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/sportv3.png" group-title="INFINITY|CANAIS",SPORTV 3
 https://super-cdn.link/sportv3/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",BANDSPORTS
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",BANDSPORTS
 http://super-cdn.link/bandsports/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",REDETV
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",REDETV
 http://super-cdn.link/redetv/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",TV CULTURA
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",TV CULTURA
 http://super-cdn.link/tvcultura/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",AE&E
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",AE&E
 http://super-cdn.link/aee/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",ADULTSWIM
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",ADULTSWIM
 http://super-cdn.link/adultswim/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",AMC
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",AMC
 http://super-cdn.link/amc/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",DISNEY CHANNEL
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",DISNEY CHANNEL
 https://super-cdn.link/disneychannel/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",CINECANAL
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",CINECANAL
 https://super-cdn.link/cinecanal/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",HBO
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",HBO
 https://super-cdn.link/hbo/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",HBO2
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",HBO2
 https://super-cdn.link/hbo2/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",HBO PLUS
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",HBO PLUS
 https://super-cdn.link/hboplus/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",HBO SIGNATURE
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",HBO SIGNATURE
 https://super-cdn.link/hbosignature/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",HBO FAMILY
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",HBO FAMILY
 https://super-cdn.link/hbofamily/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",HBO XTREME
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",HBO XTREME
 https://super-cdn.link/hboxtreme/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",SONY CHANNEL
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",SONY CHANNEL
 https://super-cdn.link/sonychannel/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",SONY MOVIES
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",SONY MOVIES
 https://super-cdn.link/sonymovies/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",STAR CHANNEL
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",STAR CHANNEL
 https://super-cdn.link/starchannel/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",TNT NOVELAS
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",TNT NOVELAS
 https://super-cdn.link/tntnovelas/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",USA
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",USA
 https://super-cdn.link/usa/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",ANIMAL PLANET
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",ANIMAL PLANET
 https://super-cdn.link/animalplanet/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",ARTE1
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",ARTE1
 https://super-cdn.link/arte1/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",COMEDY CENTRAL
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",COMEDY CENTRAL
 https://super-cdn.link/comedycentral/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",DISCOVERY CHANNEL
 https://super-cdn.link/discoverychannel/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",DISCOVERY SCIENCE
 https://super-cdn.link/discoveryscience/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",DISCOVERY THEATER
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",DISCOVERY THEATER
 https://super-cdn.link/discoverytheater/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",DISCOVERY WORLD
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",DISCOVERY WORLD
 https://super-cdn.link/discoveryworld/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",DISCOVERY ID
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",DISCOVERY ID
 https://super-cdn.link/discoveryid/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",DISCOVERY TURBO
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",DISCOVERY TURBO
 https://super-cdn.link/discoveryturbo/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",GNT
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",GNT
 https://super-cdn.link/gnt/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",MULTISHOW
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",MULTISHOW
 https://super-cdn.link/multishow/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",MTV
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",MTV
 https://super-cdn.link/mtv/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",TLC
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",TLC
 https://super-cdn.link/tlc/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",GLOBO NEWS
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",GLOBO NEWS
 https://super-cdn.link/globonews/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",RECORD NEWS
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",RECORD NEWS
 https://super-cdn.link/recordnews/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",BAND NEWS
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",BAND NEWS
 http://super-cdn.link/bandnews/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",JP NEWS
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",JP NEWS
 http://super-cdn.link/jpnews/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",NOSSO FUTEBOL
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",NOSSO FUTEBOL
 http://super-cdn.link/nossofutebol/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",MTV LIVE
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",MTV LIVE
 http://super-cdn.link/mtvlive/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",LIFETIME
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",LIFETIME
 http://super-cdn.link/lifetime/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",BIS
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",BIS
 http://super-cdn.link/bis/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",E!
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",E!
 http://super-cdn.link/e/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",CANALOFF
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",CANALOFF
 http://super-cdn.link/canaloff/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",PARAMOUNT NETWORK
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",PARAMOUNT NETWORK
 http://super-cdn.link/paramountnetwork/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",NATIONALGEOGRAPHIC
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",NATIONALGEOGRAPHIC
 http://super-cdn.link/nationalgeographic/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",FOODNETWORK
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",FOODNETWORK
 http://super-cdn.link/foodnetwork/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",VIVA
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",VIVA
 http://super-cdn.link/viva/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",CURTA
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",CURTA
 http://super-cdn.link/curta/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",HGTV
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",HGTV
 http://super-cdn.link/hgtv/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",WOOHOO
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",WOOHOO
 http://super-cdn.link/woohoo/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",FISHTV
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",FISHTV
 http://super-cdn.link/fishtv/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",TCM
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",TCM
 http://super-cdn.link/tcm/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",CARTOON NETWORK
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",CARTOON NETWORK
 https://super-cdn.link/cartoonnetwork/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",CARTOONITO
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",CARTOONITO
 https://super-cdn.link/cartoonito/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",DISCOVERY KIDS
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",DISCOVERY KIDS
 https://super-cdn.link/discoverykids/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",GLOOB
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",GLOOB
 https://super-cdn.link/gloob/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",GLOOBINHO
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",GLOOBINHO
 https://super-cdn.link/gloobinho/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",NICKJR
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",NICKJR
 https://super-cdn.link/nickjr/playlist.m3u8
-#EXTINF:-1 group-title="INFINITY|CANAIS",NICKELODEON
+#EXTINF:-1 tvg-logo=" " group-title="INFINITY|CANAIS",NICKELODEON
 https://super-cdn.link/nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/m4gzzzeYRmrwasrBdJmjhBmjS3U.jpg" group-title="INFINITY|FILMES",De Volta à Ação
 https://868419155.tapecontent.net/radosgw/qJ7BL6yWgbuz3r0/0fH9Knnq-Ticp2ECtE_e5SSU8uMggyCEt5xtVsD0tf11Mx3S2RjHhe7rDOxcS4Cz4LeUtHq3DsgkNHgnuuyIkVcn6Qn3BnZm-9qrwtVOupURkHmODCQXAKmqS_QWp9VdTTHiiq6g8CvRS9jAh4ljrLiO7MP2yZ-6IJ0eX1ZLhmEjWFKDHvbHggdCRTxjjisSU44jhvGlZAHWisojHapr2XqD3-IUY2oyEyDjQEIw4OkF-K3zHe7iXca9aqfkTwK5-P19K9uRiLhG9ZHwEj6eOOoDGI7PMvJFrXLynw/De.Volta.a.Acao.2025.mkv.mp4?stream=1
