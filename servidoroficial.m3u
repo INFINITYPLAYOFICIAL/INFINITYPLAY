@@ -2,25 +2,29 @@
 #EXTINF:-1 group-title="INFINITY|CANAIS",CRIADO POR PAULISTANO
 https://i.imgur.com/md7Bd6j.mp4
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/bbb1.png" group-title="INFINITY|CANAIS",BBB 1
-https://channels.choraglobe.icu/fontes/embedcanais/a576585bb5d608a60985012a6b383ba09f83061b04738d99ee4f2a0f7832c6fe.m3u8
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11000.ts
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/bbb1.png" group-title="INFINITY|CANAIS",BBB 2
-https://channels.choraglobe.icu/fontes/embedcanais/86fd41f857e24ba76575e4a468e6994b79de69ed3a6c3530d9f3a9bdf8cc910e.m3u8
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11001.ts
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/bbb1.png" group-title="INFINITY|CANAIS",BBB 3
-https://channels.choraglobe.icu/fontes/embedcanais/53212a7d51984f9d5f4488f666bd5da774e918d82d432e2399b761fc2d1c603c.m3u8
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11002.ts
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/bbb1.png" group-title="INFINITY|CANAIS",BBB 4
-https://channels.choraglobe.icu/fontes/embedcanais/00e8ee7804984accad8bcf89f524cba06887d1085ae1874d82fe9e16566f2de3.m3u8
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11003.ts
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/bbb1.png" group-title="INFINITY|CANAIS",BBB 5
-https://channels.choraglobe.icu/fontes/embedcanais/f6497d5530c50ef0ccec5a75602415b52abbfb35327e26cd9cb1e08522f982de.m3u8
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11004.ts
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/bbb1.png" group-title="INFINITY|CANAIS",BBB 6
-https://channels.choraglobe.icu/fontes/embedcanais/d9d6931d4ff1a16bc25464e225342e67e59a8fbf27704e43b2306e89f50eeee8.m3u8
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11005.ts
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/bbb1.png" group-title="INFINITY|CANAIS",BBB 7
-https://channels.choraglobe.icu/fontes/embedcanais/f07ee9c49d7ce841232f2cc71c028f6b8aabc034e9bd04557d11731ee5916788.m3u8
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11006.ts
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/bbb1.png" group-title="INFINITY|CANAIS",BBB 8
-https://channels.choraglobe.icu/fontes/embedcanais/c37d080dc09721bbac4fd9055669eaad57907e12451458ed9e5f6d1f17c7c633.m3u8
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11007.ts
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/bbb1.png" group-title="INFINITY|CANAIS",BBB 9
-https://channels.choraglobe.icu/fontes/embedcanais/e5a814d567dda04737cf4c57d89f33269b23017a5ff7c0f6fde4addc25304aa4.m3u8
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11008.ts
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/bbb1.png" group-title="INFINITY|CANAIS",BBB 10
-https://channels.choraglobe.icu/fontes/embedcanais/611e89da1834abedf99723f8562a55fa0d2c986e7a9541d4d6190eefe400f952.m3u8
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11009.ts
+#EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/bbb1.png" group-title="INFINITY|CANAIS",BBB 11
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11010.ts
+#EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/bbb1.png" group-title="INFINITY|CANAIS",BBB 12
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11011.ts
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/space.png" group-title="INFINITY|CANAIS",SPACE
 http://super-cdn.link/space/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/tnt.png" group-title="INFINITY|CANAIS",TNT
@@ -35,6 +39,8 @@ http://super-cdn.link/universaltv/playlist.m3u8
 https://super-cdn.link/studiouniversal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/cinemax.png" group-title="INFINITY|CANAIS",CINEMAX
 http://super-cdn.link/cinemax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/28995/logo_256_1729865032.png" group-title="INFINITY|CANAIS",BS TV
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/history.png" group-title="INFINITY|CANAIS",HISTORY
 http://super-cdn.link/history/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://embedtv.online/assets/images/history.png" group-title="INFINITY|CANAIS",HISTORY 2
